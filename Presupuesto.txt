@@ -1,0 +1,32 @@
+[x] 1280 CEC - Pagar con el dinero de mi papanino
+
+
+- Hospedaje:
+[] 1800 https://tinyurl.com/2cp5mvwb
+[] 1483.08 https://tinyurl.com/2d7vyamm
+[] 1506.75 https://tinyurl.com/2ausg32h
+[x] 623.21 https://tinyurl.com/2c2z6roh
+
+
+[] 4200 Avion ya se pagaron 100
+[x] Debemos 3,200
+
+
+
+Total del presupuesto:
+
+
+1280		CEC
+3200		Avión
+--------
+4480		Gasto total
++ 630	Hospedaje
+--------
+5110		Total gastados y a deber
+- 3000	De mi papanino
+- 5700	Retiro de ahorro
+--------
+3590		Total libres	
++ 7740	Salario de agosto
+--------
+11330	Total en wallet
